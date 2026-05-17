@@ -41,12 +41,3 @@
 
 ---
 
-### ✨ GitHub Stats & Visitors
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mohamadsaid79&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamadsaid79&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
