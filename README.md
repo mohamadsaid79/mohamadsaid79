@@ -1,12 +1,12 @@
-<p>
-  <img src="https://camo.githubusercontent.com/0cb60213353c82fafd5ce011525b2ee373fb278a74e9b64c2dc5770fb9cb8586/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966" alt="" />
-</p>
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+
 
 <h1 align="center">Hi there 👋, I'm Mohamad Helmy!</h1>
 
 <h3 align="center">A Software Engineering Student passionate about Full-Stack Development & Embedded Systems 🚀</h3>
 
 ---
+<img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 ### 👨‍💻 About Me
 
