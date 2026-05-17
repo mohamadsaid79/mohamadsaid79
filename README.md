@@ -10,7 +10,7 @@
 - 💻 Focusing on **Full-Stack Web Development** (SaaS, E-commerce) and system automation (Telegram/WhatsApp bots).
 - ⚙️ Deeply interested in **Embedded Systems**, Microcontrollers, and C/C++ architecture.
 - 🚀 Currently working on projects like **TalabaHub** and the **OTU Campus Navigation System**.
-- 🌍 Continuously learning, currently improving my Turkish language skills to expand my professional horizons.
+- 🌍 Continuously learning, currently improving my skills to expand my professional horizons.
 - 📫 How to reach me: **[https://www.linkedin.com/in/mohamad-s-helmy-a57584244]** | **[mhamadsaid555@gmail.com]**
 
 ---
