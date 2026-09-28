@@ -1,59 +1,106 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+<!-- ⚠️ استبدل كل كلمة YOUR_USERNAME باسم حسابك على GitHub -->
 
-
-<h1 align="center">Hi there 👋, I'm Mohamad Helmy!</h1>
-
-<h3 align="center">A Software Engineering Student passionate about Full-Stack Development & Embedded Systems 🚀</h3>
-
----
-<img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
-
-### 👨‍💻 About Me
-
-- 🎓 Studying **Software Engineering** at **OSTİM Technical University** (Class of 2028).
-- 💻 Focusing on **Full-Stack Web Development** (SaaS, E-commerce) and system automation (Telegram/WhatsApp bots).
-- ⚙️ Deeply interested in **Embedded Systems**, Microcontrollers, and C/C++ architecture.
-- 🚀 Currently working on projects like **TalabaHub** and the **OTU Campus Navigation System**.
-- 🌍 Continuously learning, currently improving my skills to expand my professional horizons.
-- 📫 How to reach me: **[https://www.linkedin.com/in/mohamad-s-helmy-a57584244]** | **[mhamadsaid555@gmail.com]**
-
----
-
-### 🛠️ Languages and Tools:
-
-**Programming Languages:**
-<p>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00ff9c,100:0d1117&height=240&section=header&text=MOHAMAD%20HELMY&fontSize=62&fontColor=00ff9c&fontAlignY=42&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20Embedded&descAlignY=64&descSize=20&animation=fadeIn" width="100%"/>
 </p>
 
-**Web & Frameworks:**
-<p>
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=%3E+whoami+%E2%86%92+Mohamad+Helmy;%3E+Building+SaaS+%26+E-commerce+platforms;%3E+Automating+everything+with+bots+%F0%9F%A4%96;%3E+Talking+to+hardware+in+C%2FC%2B%2B+%E2%9A%99%EF%B8%8F;%3E+Class+of+2028+%40+OSTIM+Technical+University" alt="Typing SVG" />
+  </a>
 </p>
 
-**Tools & Platforms:**
-<p>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=00ff9c&style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/STATUS-BUILDING-00ff9c?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/CLASS%20OF-2028-00ff9c?style=for-the-badge&labelColor=0d1117" />
 </p>
-
 
 ---
 
-## 🤝 Connect with Me
+## `> cat about_me.txt`
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamad-s-helmy-a57584244/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhamadsaid555@gmail.com)
-  
-</div>
+```yaml
+name:       Mohamad Helmy
+role:       Software Engineering Student @ OSTIM Technical University
+graduation: 2028
+focus:
+  - Full-Stack Web (SaaS, E-commerce)
+  - System Automation (Telegram / WhatsApp Bots)
+  - Embedded Systems & Microcontrollers
+  - C/C++ Architecture
+status:     Always learning. Always shipping.
+```
 
 ---
 
+## `> ls ./projects`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 TalabaHub</h3>
+      <p>A platform I'm actively building — full-stack, made to solve a real problem for students.</p>
+      <img src="https://img.shields.io/badge/status-in%20development-00ff9c?style=flat-square&labelColor=0d1117" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗺️ OTU Campus Navigation System</h3>
+      <p>A navigation system to help people find their way around the OSTIM Technical University campus.</p>
+      <img src="https://img.shields.io/badge/status-in%20development-00ff9c?style=flat-square&labelColor=0d1117" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## `> ./load_skills.sh`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,php,python,laravel,django,mysql,git,github,linux,arduino&theme=dark&perline=11" />
+</p>
+
+<details>
+<summary><b>⚡ Skill breakdown</b></summary>
+<br>
+
+| Domain | Arsenal |
+|:--|:--|
+| 🧠 Languages | `C` · `C++` · `PHP` · `Python` |
+| 🌐 Web | `Laravel` · `Django` · `MySQL` |
+| ⚙️ Embedded | Microcontrollers · C/C++ architecture |
+| 🤖 Automation | Telegram bots · WhatsApp bots |
+| 🛠️ Tools | `Git` · `GitHub` · `Linux` |
+
+</details>
+
+---
+
+## `> git log --stats`
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&ring_color=00ff9c" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" />
+</p>
+
+---
+
+## `> ./contact --open`
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamad-s-helmy-a57584244/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00ff9c?style=for-the-badge&logo=linkedin&logoColor=00ff9c&labelColor=0d1117" />
+  </a>
+  <a href="mailto:mhamadsaid555@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send%20Message-00ff9c?style=for-the-badge&logo=gmail&logoColor=00ff9c&labelColor=0d1117" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:0d1117&height=120&section=footer" width="100%"/>
+</p>
+
+<p align="center"><code>while (alive) { learn(); build(); ship(); }</code></p>
