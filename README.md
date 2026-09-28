@@ -1,51 +1,54 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=180&section=header&text=Mohamad%20Helmy&fontSize=58&fontColor=ffffff&fontAlignY=45&desc=Software%20Engineer%20•%20Full-Stack%20•%20Embedded&descAlignY=72&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,100:FF8C00&height=220&section=header&text=MOHAMAD%20HELMY&fontSize=54&fontColor=FFB000&fontAlignY=38&desc=Full-Stack%20%C3%97%20Embedded%20%7C%20Software%20Engineer&descAlignY=60&descSize=19&descColor=ffffff" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=650&height=40&lines=Building+SaaS+%26+E-commerce+platforms;Automating+life+with+Telegram+%26+WhatsApp+bots;Talking+to+hardware+in+C%2FC%2B%2B;OSTIM+Technical+University+%C2%B7+Class+of+2028" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=FFB000&center=true&vCenter=true&width=700&height=40&lines=%24+ssh+mohamad%40localhost;Web+on+one+side.+Hardware+on+the+other.;I+ship+code+that+touches+the+real+world.;OSTIM+Technical+University+%C2%B7+Class+of+2028" alt="typing" />
 </a>
 
-<br/><br/>
+<br/>
 
-<a href="https://www.linkedin.com/in/mohamad-s-helmy-a57584244/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:mhamadsaid555@gmail.com"><img src="https://img.shields.io/badge/Email-FF00E5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=mohamadsaid79&label=Views&color=00F5FF&style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/mohamad-s-helmy-a57584244/"><img src="https://img.shields.io/badge/LinkedIn-Connect-FFB000?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0d1117"/></a>
+<a href="mailto:mhamadsaid555@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-FF8C00?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d1117"/></a>
+<img src="https://img.shields.io/github/followers/mohamadsaid79?style=for-the-badge&color=FFB000&labelColor=0d1117&logo=github&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=mohamadsaid79&label=VIEWS&color=FF8C00&style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 
 <br/>
 
-## ⚡ About
+```bash
+mohamad@dev:~$ cat profile.conf
 
-> I build things that work on the screen **and** on the circuit board.
-
-- 🎓 Software Engineering @ **OSTİM Technical University** — Class of **2028**
-- 🌐 Full-Stack: **SaaS** and **E-commerce** platforms
-- 🤖 Automation: **Telegram / WhatsApp** bots
-- ⚙️ Embedded: microcontrollers & **C/C++** architecture
-- 🚀 Now building: **TalabaHub** and the **OTU Campus Navigation System**
+NAME        = "Mohamad Helmy"
+STUDYING    = "Software Engineering @ OSTIM Technical University"
+GRADUATION  = 2028
+BUILDING    = ["TalabaHub", "OTU Campus Navigation System"]
+MOTTO       = "Learn. Build. Ship. Repeat."
+```
 
 <br/>
 
-## 🔥 Projects
+## 🌗 Two Worlds, One Engineer
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 TalabaHub
-A full-stack platform I'm building for students.
-
-`In development`
+### 🌐 Software Side
+- Full-Stack web: **SaaS** & **E-commerce**
+- **Laravel** · **Django** · **MySQL**
+- Bots & automation for **Telegram** / **WhatsApp**
+- Turning messy manual workflows into systems
 
 </td>
 <td width="50%" valign="top">
 
-### 🗺️ OTU Campus Navigation
-A system that helps people navigate the OSTİM Technical University campus.
-
-`In development`
+### ⚙️ Hardware Side
+- **Embedded Systems** & Microcontrollers
+- **C / C++** architecture
+- Low-level thinking, close to the metal
+- Where code meets the physical world
 
 </td>
 </tr>
@@ -53,7 +56,32 @@ A system that helps people navigate the OSTİM Technical University campus.
 
 <br/>
 
-## 🧰 Tech Stack
+## 🚀 What I'm Building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 TalabaHub
+A full-stack platform for students.
+<br/><br/>
+![status](https://img.shields.io/badge/status-in%20development-FFB000?style=flat-square&labelColor=0d1117)
+
+</td>
+<td width="50%" valign="top">
+
+### 🗺️ OTU Campus Navigation
+A navigation system for finding your way around the OSTIM Technical University campus.
+<br/><br/>
+![status](https://img.shields.io/badge/status-in%20development-FFB000?style=flat-square&labelColor=0d1117)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🧰 Arsenal
 
 <div align="center">
 
@@ -63,15 +91,12 @@ A system that helps people navigate the OSTİM Technical University campus.
 
 <br/>
 
-## 📊 Stats
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohamadsaid79&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=FF00E5" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadsaid79&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF" />
+```
+$ echo "Open to collaborate on web, automation & embedded projects"
+```
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamadsaid79&bg_color=0d1117&color=00F5FF&line=FF00E5&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:FF8C00,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=80&section=footer" width="100%"/>
