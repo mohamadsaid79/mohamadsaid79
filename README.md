@@ -11,7 +11,6 @@
 <img src="https://img.shields.io/badge/OPEN%20FOR-INTERNSHIP-FFB000?style=for-the-badge&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/CLASS%20OF-2028-FF8C00?style=for-the-badge&labelColor=0d1117"/>
 <img src="https://img.shields.io/github/followers/mohamadsaid79?style=for-the-badge&color=FFB000&labelColor=0d1117&logo=github&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=mohamadsaid79&label=VIEWS&color=FF8C00&style=for-the-badge&labelColor=0d1117"/>
 
 <br/><br/>
 
